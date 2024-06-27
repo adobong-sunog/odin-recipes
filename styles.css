@@ -1,0 +1,35 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: antiquewhite;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.dish-img {
+    text-align: center;
+}
+
+h1,
+h3 {
+    color: orangered;
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+.main-list,
+.main-dish {
+    font-size: 52px;
+    background-color: orange;
+}
+
+.btn-back {
+    text-align: center;
+    
+}
+
