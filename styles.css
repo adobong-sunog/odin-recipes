@@ -1,6 +1,7 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
     background-color: antiquewhite;
+    box-sizing: border-box;
 }
 
 img {
@@ -12,14 +13,22 @@ img {
     text-align: center;
 }
 
+.dish-list {
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+}
+
+.dish-about {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 h1,
 h3 {
     color: orangered;
     text-align: center;
-}
-
-h3 {
-    text-align: left;
 }
 
 .main-list,
@@ -30,6 +39,9 @@ h3 {
 
 .btn-back {
     text-align: center;
-    
+}
+
+button {
+    font-size: 20px;
 }
 
